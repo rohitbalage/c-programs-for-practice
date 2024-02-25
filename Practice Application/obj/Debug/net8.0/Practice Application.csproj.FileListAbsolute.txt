@@ -1,0 +1,25 @@
+D:\C_sharp_programs_for_practice\Practice Application\Practice Application\bin\Debug\net8.0\appsettings.Development.json
+D:\C_sharp_programs_for_practice\Practice Application\Practice Application\bin\Debug\net8.0\appsettings.json
+D:\C_sharp_programs_for_practice\Practice Application\Practice Application\bin\Debug\net8.0\Practice Application.exe
+D:\C_sharp_programs_for_practice\Practice Application\Practice Application\bin\Debug\net8.0\Practice Application.deps.json
+D:\C_sharp_programs_for_practice\Practice Application\Practice Application\bin\Debug\net8.0\Practice Application.runtimeconfig.json
+D:\C_sharp_programs_for_practice\Practice Application\Practice Application\bin\Debug\net8.0\Practice Application.dll
+D:\C_sharp_programs_for_practice\Practice Application\Practice Application\bin\Debug\net8.0\Practice Application.pdb
+D:\C_sharp_programs_for_practice\Practice Application\Practice Application\obj\Debug\net8.0\Practice Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_sharp_programs_for_practice\Practice Application\Practice Application\obj\Debug\net8.0\Practice Application.AssemblyInfoInputs.cache
+D:\C_sharp_programs_for_practice\Practice Application\Practice Application\obj\Debug\net8.0\Practice Application.AssemblyInfo.cs
+D:\C_sharp_programs_for_practice\Practice Application\Practice Application\obj\Debug\net8.0\Practice Application.csproj.CoreCompileInputs.cache
+D:\C_sharp_programs_for_practice\Practice Application\Practice Application\obj\Debug\net8.0\Practice Application.MvcApplicationPartsAssemblyInfo.cache
+D:\C_sharp_programs_for_practice\Practice Application\Practice Application\obj\Debug\net8.0\staticwebassets.build.json
+D:\C_sharp_programs_for_practice\Practice Application\Practice Application\obj\Debug\net8.0\staticwebassets.development.json
+D:\C_sharp_programs_for_practice\Practice Application\Practice Application\obj\Debug\net8.0\staticwebassets\msbuild.Practice Application.Microsoft.AspNetCore.StaticWebAssets.props
+D:\C_sharp_programs_for_practice\Practice Application\Practice Application\obj\Debug\net8.0\staticwebassets\msbuild.build.Practice Application.props
+D:\C_sharp_programs_for_practice\Practice Application\Practice Application\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Practice Application.props
+D:\C_sharp_programs_for_practice\Practice Application\Practice Application\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Practice Application.props
+D:\C_sharp_programs_for_practice\Practice Application\Practice Application\obj\Debug\net8.0\staticwebassets.pack.json
+D:\C_sharp_programs_for_practice\Practice Application\Practice Application\obj\Debug\net8.0\scopedcss\bundle\Practice Application.styles.css
+D:\C_sharp_programs_for_practice\Practice Application\Practice Application\obj\Debug\net8.0\Practice Application.dll
+D:\C_sharp_programs_for_practice\Practice Application\Practice Application\obj\Debug\net8.0\refint\Practice Application.dll
+D:\C_sharp_programs_for_practice\Practice Application\Practice Application\obj\Debug\net8.0\Practice Application.pdb
+D:\C_sharp_programs_for_practice\Practice Application\Practice Application\obj\Debug\net8.0\Practice Application.genruntimeconfig.cache
+D:\C_sharp_programs_for_practice\Practice Application\Practice Application\obj\Debug\net8.0\ref\Practice Application.dll
