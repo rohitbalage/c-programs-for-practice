@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C_sharp_programs_for_practice\\Practice Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C686A70-7028-4AF3-8AD1-E4277C08188C}|Practice Application\\Practice Application.csproj|d:\\c_sharp_programs_for_practice\\practice application\\practice application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C686A70-7028-4AF3-8AD1-E4277C08188C}|Practice Application\\Practice Application.csproj|solutionrelative:practice application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C_sharp_programs_for_practice\\Practice Application\\Practice Application\\Program.cs",
+              "RelativeDocumentMoniker": "Practice Application\\Program.cs",
+              "ToolTip": "D:\\C_sharp_programs_for_practice\\Practice Application\\Practice Application\\Program.cs",
+              "RelativeToolTip": "Practice Application\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T01:14:51.838Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -23,3 +23,4 @@ D:\C_sharp_programs_for_practice\Practice Application\Practice Application\obj\D
 D:\C_sharp_programs_for_practice\Practice Application\Practice Application\obj\Debug\net8.0\Practice Application.pdb
 D:\C_sharp_programs_for_practice\Practice Application\Practice Application\obj\Debug\net8.0\Practice Application.genruntimeconfig.cache
 D:\C_sharp_programs_for_practice\Practice Application\Practice Application\obj\Debug\net8.0\ref\Practice Application.dll
+D:\C_sharp_programs_for_practice\Practice Application\Practice Application\obj\Debug\net8.0\Practice Application.sourcelink.json
